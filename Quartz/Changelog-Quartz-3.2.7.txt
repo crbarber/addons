@@ -1,0 +1,11 @@
+tag 3.2.7
+fcad92dd7a66be3620961837bc737c9ebaa27643
+Hendrik Leppkes <h.leppkes@gmail.com>
+2016-03-07 15:31:01 +0100
+
+Tag as 3.2.7
+
+
+--------------------
+
+No changelog

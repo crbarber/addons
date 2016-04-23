@@ -1,0 +1,8 @@
+## Author: Riokou
+## Interface: 60000
+## Title: IllusionPreview
+## Version: 1.1
+## Notes: Ctrl+Click Enchant Illusions to preview them. Ctrl+Shift+Click to preview on your offhand.
+## Notes-deDE: Vorschau auf Verzaubererillusionen mit Strg-Click. Strg-Shift-Click für die Nebenhand.
+
+IllusionPreview.lua

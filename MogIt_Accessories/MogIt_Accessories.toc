@@ -1,0 +1,5 @@
+## Interface: 60000
+## X-Curse-Packaged-Version: 3.5.9
+## X-Curse-Project-Name: MogIt
+## X-Curse-Project-ID: mogit
+## X-Curse-Repository-ID: wow/mogit/mainline

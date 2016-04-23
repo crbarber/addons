@@ -1,0 +1,12 @@
+tag 1.9.17
+a9e227682ba42dd84a3f4d771d05777601cd01ef
+Parnic <parnic@parnic.com>
+2016-03-16 12:39:20 -0500
+
+Tagging as 1.9.17
+
+
+--------------------
+
+Parnic:
+	- Use the GCD spell for calculating GCD time (ticket #204)

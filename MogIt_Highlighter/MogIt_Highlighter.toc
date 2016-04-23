@@ -1,0 +1,16 @@
+## Interface: 60200
+## Title: MogIt_Highlighter
+## Version: v1.3.2
+## Notes: Adds a highlight border to items in your MogIt Wishlist, making them easier to see.
+## Author: Ethan Centaurai
+## X-Category: Transmogrification
+## X-WoWIPortal: Ethan Centaurai
+## X-Date: @project-timestamp@
+## RequiredDeps: MogIt
+## X-Curse-Packaged-Version: v1.3.2
+## X-Curse-Project-Name: MogIt_Highlighter
+## X-Curse-Project-ID: mogit-highlighter
+## X-Curse-Repository-ID: wow/mogit-highlighter/mainline
+
+Libs\LibButtonGlow-1.0\LibButtonGlow-1.0.lua
+Core.lua

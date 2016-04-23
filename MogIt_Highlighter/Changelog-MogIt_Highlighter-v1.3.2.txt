@@ -1,0 +1,12 @@
+tag v1.3.2
+0cbe6b57185ce5598926d0e371c816c075ca2eff
+Ethan Centaurai <ethancentaurai@outlook.com>
+2015-06-27 14:02:14 +0100
+
+Tagging as v1.3.2.
+
+
+--------------------
+
+Ethan Centaurai:
+	- Bump Interface number to 60200.

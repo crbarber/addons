@@ -1,0 +1,56 @@
+## Interface: 60200
+## X-Max-Interface: 60200
+## X-Min-Interface: 60000
+## X-Curse-Packaged-Version: 2.4.0
+## X-Curse-Project-Name: Healers have to die
+## X-Curse-Project-ID: healers-have-to-die
+## X-Curse-Repository-ID: wow/healers-have-to-die/mainline
+
+## Title: Healers Have To Die
+
+## Notes: Spot those bloody healers instantly and help them accomplish their destiny! (PVP and PVE)
+## Notes-frFR: Débusquez ces maudits soigneurs instantanément et aider-les à accomplir leur destinée ! (JCJ et JCE)
+## Notes-deDE: Entdecke auf der Stelle diese verdammten Heiler und sorge dafür, dass sie Ihr Schicksal ereilt! (PVE und PVP)
+## Notes-esES: ¡Descubre a esos sanadores sangrientos instantáneamente y ayúdales a cumplir su destino! (JcE y JcJ)
+## Notes-esMX: Spot those bloody healers instantly and help them accomplish their destiny! (PVP and PVE)
+## Notes-koKR: 피의 힐러를 빠르게 발견하고 그들의 운명을 결정짓습니다! (PVP 와 PVE)
+## Notes-ruRU: Мгновенно обнаружить этих чертовых лекарей и воздать им по заслугам! (PVP и PVE).
+## Notes-zhCN: 立刻曝光那些该死的治疗并帮助他们走完自己的使命！（PvP 和 PvE）
+## Notes-zhTW: 讓那些強大的補師立馬現形，並且幫助他們完成自己的使命! (PVP 和 PVE)
+## Notes-itIT: Individua quei dannati curatori all'istante e aiutali a compiere il loro destino! (PVP e PVE)
+
+
+## Author: John Wellesz
+## Version: 2.4.0
+
+## LoadManagers: AddonLoader
+
+## X-LoadOn-Slash: /hhtd
+## X-LoadOn-Always: delayed
+
+
+## SavedVariables: Healers_Have_To_Die
+
+## X-License: All Rights Reserved
+
+## OptionalDeps: Ace3, LibNameplateRegistry-1.0
+## X-Embeds: Ace3, LibNameplateRegistry-1.0
+
+## X-ReleaseDate: "2016-02-22T22:58:21Z"
+## X-Category: PvP
+## X-eMail: archarodim@teaser.fr
+## X-Website: http://www.2072productions.com/to/healers-have-to-die.php
+
+
+embeds.xml
+
+Localization.lua
+Core.lua
+utils.lua
+
+NamePlateHooker.lua
+CustomMarks.lua
+
+GraphicalReporter.lua
+
+Announcer.lua

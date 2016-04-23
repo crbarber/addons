@@ -1,0 +1,13 @@
+tag 4.6.14
+79a9f59fa3d1bb84ae0aa5efee204d1f7ea21f07
+Hendrik Leppkes <h.leppkes@gmail.com>
+2016-03-07 09:45:07 +0100
+
+Tag as 4.6.14
+
+
+--------------------
+
+Hendrik Leppkes:
+	- Properly update the pet bar when the pet specialization changes
+	Fixes ticket 1216

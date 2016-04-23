@@ -1,0 +1,34 @@
+tag 2.1.0.26
+8915f63e6a0715806aa76ce7d7cbf3dff31cdec3
+Benjamin Staneck <staneck@gmail.com>
+2016-04-09 20:32:39 +0200
+
+
+
+--------------------
+
+InfusOnWoW:
+	- Fixes for Tickets (#34)
+	* Fix Full Scan auras
+	
+	The removeSpellNames patch used as a logic that a trigger.spellId
+	always trumps a name. For that to work, the full scan auras need
+	to reset the spellId.
+	
+	Apparently in the past importing full scan auras was broken,
+	since this is now done always changing full scan auras broke.
+	
+	Ticket-number: 516
+	
+	* Fix load events happening before the auras are loaded
+	
+	This broke again with the fix for the Archimonde radar,
+	because the WeakAurasOptions registers the WeakAuras.ScanForLoad
+	function too. Change that code to be a bit more explicit and fix
+	the bug again.
+	
+	Ticket-number: 515
+	
+	* Glyphs: Add a tooltip listing the current glyphs
+	
+	That's the best we can do

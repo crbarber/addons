@@ -1,0 +1,14 @@
+------------------------------------------------------------------------
+r9 | lombra | 2014-12-27 17:27:14 +0000 (Sat, 27 Dec 2014) | 1 line
+Changed paths:
+   A /tags/1.3.2 (from /trunk:8)
+
+Tagging as 1.3.2.
+------------------------------------------------------------------------
+r8 | lombra | 2014-12-27 16:56:27 +0000 (Sat, 27 Dec 2014) | 2 lines
+Changed paths:
+   M /trunk/Core.lua
+
+- Update for MogIt 3.4.
+- Put a check mark at sets that are currently applied.
+------------------------------------------------------------------------

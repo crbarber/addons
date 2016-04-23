@@ -1,0 +1,29 @@
+------------------------------------------------------------------------
+r1364 | resike | 2016-04-06 16:19:18 +0000 (Wed, 06 Apr 2016) | 1 line
+Changed paths:
+   A /tags/v6.2.4a release (from /trunk:1363)
+
+Tagging as v6.2.4a release
+------------------------------------------------------------------------
+r1363 | Resike | 2016-04-06 16:17:41 +0000 (Wed, 06 Apr 2016) | 1 line
+Changed paths:
+   M /trunk/GUI_Config.lua
+   M /trunk/GUI_Detail.lua
+   M /trunk/GUI_Main.lua
+
+- Loads of GUI fixes.
+------------------------------------------------------------------------
+r1361 | Resike | 2016-03-08 19:43:35 +0000 (Tue, 08 Mar 2016) | 2 lines
+Changed paths:
+   M /trunk/GUI_Graph.lua
+   M /trunk/GUI_Realtime.lua
+   M /trunk/Recount.lua
+   M /trunk/Recount_Modes.lua
+   M /trunk/Tracker.lua
+   M /trunk/WindowOrder.lua
+   M /trunk/colors.lua
+   M /trunk/deletion.lua
+
+- Fixed some issues with the graphs.
+- Some other minor cleanups.
+------------------------------------------------------------------------

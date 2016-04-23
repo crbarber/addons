@@ -1,0 +1,14 @@
+## Interface: 60000
+## Title: MogIt: SetTransmog
+## Version: 1.3.2
+## Notes: Transmogrify full MogIt wishlist sets in one go.
+## Author: Lombra
+## RequiredDeps: MogIt
+## LoadOnDemand: 1
+## LoadWith: Blizzard_ItemAlterationUI
+## X-Curse-Packaged-Version: 1.3.2
+## X-Curse-Project-Name: MogIt: SetTransmog
+## X-Curse-Project-ID: mogit-settransmog
+## X-Curse-Repository-ID: wow/mogit-settransmog/mainline
+
+Core.lua

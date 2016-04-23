@@ -1,0 +1,15 @@
+## Interface: 60300
+## Title: MogIt_WowHead
+## Notes: Transmog sets from WowHead for MogIt
+## Author: Chrome
+## Version: 1.1.1
+## LoadOnDemand: 1
+## RequiredDeps: MogIt
+## X-MogItModuleVersion: 2
+## X-Curse-Packaged-Version: v1.1.1
+## X-Curse-Project-Name: MogIt_WowHead
+## X-Curse-Project-ID: mogit_wowhead
+## X-Curse-Repository-ID: wow/mogit_wowhead/mainline
+
+MogIt_WowHead.lua
+Data.lua

@@ -1,0 +1,221 @@
+2016-04-14  Tercio  <Tercio>
+
+[72c9b751ec4f] [tip]
+* IskarAssist.lua, plugins/attendance.lua, plugins/playercheck.lua:
+
+- updates on the assist project.
+
+
+2016-04-11  Tercio  <Tercio>
+
+[ace75c15d495]
+* IskarAssist.lua, plugins/cooldowns.lua:
+
+- more tweaks on cooldowns plugins.
+
+
+2016-04-07  Tercio  <Tercio>
+
+[5545ee2bb378]
+* IskarAssist.lua:
+
+- small fix.
+
+
+[c0be85779b18]
+* plugins/notes.lua:
+
+- small fix.
+
+
+[c040dabc4d1a]
+* API.lua, IskarAssist.lua, plugins/notes.lua:
+
+- small fixes.
+
+
+2016-03-31  Tercio  <Tercio>
+
+[a77889cbcf50]
+* IskarAssist.toc, indent.lua, plugins/cooldowns.lua, plugins/notes.lua:
+
+- few changes on the notepad plugin for the new project.
+
+
+2016-03-30  Tercio  <Tercio>
+
+[51dc71d59257]
+* API.lua, IskarAssist.lua, plugins/playercheck.lua:
+
+- playercheck plugin updated.
+
+
+2016-03-27  Tercio  <Tercio>
+
+[d83901e0382f]
+* IskarAssist.lua, plugins/notes.lua:
+
+- Version ++
+- few improvements on the notepad plugin.
+
+
+2016-03-25  Tercio  <Tercio>
+
+[ec83df15bf80]
+* IskarAssist.lua:
+
+- Raid assignments plugin got fixed.
+- Attendance plugin also got fixed.
+
+
+[de93810971f5]
+* IskarAssist.lua, OptionsPanel.lua, plugins/attendance.lua, plugins/bislist.lua, plugins/boards.lua, plugins/cooldowns.lua, plugins/meters.lua, plugins/notes.lua, plugins/playercheck.lua, plugins/raidbislist.lua:
+
+- Raid assignments plugin got fixed.
+- Attendance plugin also got fixed.
+
+
+2016-03-11  Tercioo  <Tercioo>
+
+[3cde19438231]
+* IskarAssist.lua, OptionsPanel.lua, Templates.lua, plugins/bislist.lua, plugins/playercheck.lua, plugins/raidbislist.lua, plugins/raidschedule.lua:
+
+- more update for iskar/raid assist
+
+
+2016-03-10  Tercioo  <Tercioo>
+
+[6f00ef49c713]
+* plugins/raidbislist.lua:
+
+- fixed more bugs on the latest update.
+
+
+[e95d18be546e]
+* IskarAssist.lua:
+
+- player check disabled.
+
+
+[3e834c7c108f]
+* OptionsPanel.lua, Templates.lua:
+
+-trying to weakup the packpager, 2nd attempt.
+
+
+[b6f475d797af]
+* IskarAssist.lua:
+
+-trying to weakup the packpager.
+
+
+[1ba57cb633ab]
+* IskarAssist.lua:
+
+- player check disabled.
+
+
+[5877ec0a2a47]
+* IskarAssist.lua:
+
+- player check disabled.
+
+
+[4fb281fb0f61]
+* plugins/playercheck.lua:
+
+- player check disabled.
+
+
+[b69647565574]
+* API.lua, OptionsPanel.lua, RaidAssist.lua, plugins/boards.lua, plugins/invite.lua, plugins/meters.lua, plugins/notes.lua:
+
+- more development on the iskar/raid assist project.
+
+
+2016-03-09  Tercioo  <Tercioo>
+
+[41a84d4953b4]
+* RaidAssist.lua:
+
+- slash command changed from /ra to /raa
+
+
+[f2d498e15bea]
+* IskarAssist.lua, IskarAssist.toc, OptionsPanel.lua, RaidAssist.lua, media/plugin_icons.tga, plugins/attendance.lua, plugins/battleres.lua, plugins/bislist.lua, plugins/boards.lua, plugins/cooldowns.lua, plugins/invite.lua, plugins/meters.lua, plugins/notes.lua, plugins/playercheck.lua, plugins/raidbislist.lua:
+
+- more production on the raid assist plugin.
+
+
+2016-03-06  Tercioo  <Tercioo>
+
+[2d893d0ad090]
+* IskarAssist.toc, Libs/AceSerializer-3.0/AceSerializer-3.0.lua, Libs/DF/slider.lua, locales/enUS.lua, plugins/attendance.lua, plugins/cooldowns.lua, plugins/invite.lua, plugins/notes.lua:
+
+- fixed an issue with a feature under development.
+
+
+2016-03-05  Tercioo  <Tercioo>
+
+[43da715ec23a]
+* IskarAssist.lua, Libs/AceSerializer-3.0/AceSerializer-3.0.lua, Libs/AceSerializer-3.0/AceSerializer-3.0.xml:
+
+- Trying to fix the miss library problem.
+
+
+2016-03-01  Tercioo  <Tercioo>
+
+[552381476118]
+* IskarAssist.lua:
+
+- added the maxgroups description when using the slash command /iskar.
+
+
+2016-02-25  Tercioo  <Tercioo>
+
+[4f85c70b7ecc]
+* .pkgmeta, IskarAssist.lua:
+
+- make sure the group limit isn't bigger than 8 and lower than 2.
+
+
+2016-02-24  Tercioo  <Tercioo>
+
+[d6a300aba07e]
+* .pkgmeta, IskarAssist.lua:
+
+- warning about the non saving maxgroups.
+
+
+2016-02-23  Tercioo  <Tercioo>
+
+[a4036137e41a]
+* IskarAssist.lua, IskarAssist.toc:
+
+- tagging as relelase v0.16.4n.
+
+
+2016-02-20  Tercioo  <Tercioo>
+
+[b854c37170a8]
+* IskarAssist.lua:
+
+- added command /iskar maxgroups X
+
+
+2016-02-19  Tercioo  <Tercioo>
+
+[d5c407017399]
+* Libs/DF/slider.lua, Libs/libs.xml:
+
+- fix a startup error.
+
+
+2016-02-12  Tercioo  <Tercioo>
+
+[2ff9867fa8c0]
+* RaidAssist.toc:
+
+- raidassist integration.
+
+
